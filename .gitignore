@@ -1,0 +1,10 @@
+Debug/
+.vs/
+doc/
+ipch/
+Release/
+*.*db
+
+an_task_test/Debug/*
+an_task_test/Release/*
+
